@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35826.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "gta5-orbis-hooks", "gta5-orbis-hooks\gta5-orbis-hooks.vcxproj", "{33BDA68F-FD07-4EA7-A203-9723462D3EAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ORBIS = Debug|ORBIS
+		Release|ORBIS = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33BDA68F-FD07-4EA7-A203-9723462D3EAC}.Debug|ORBIS.ActiveCfg = Debug|ORBIS
+		{33BDA68F-FD07-4EA7-A203-9723462D3EAC}.Debug|ORBIS.Build.0 = Debug|ORBIS
+		{33BDA68F-FD07-4EA7-A203-9723462D3EAC}.Release|ORBIS.ActiveCfg = Release|ORBIS
+		{33BDA68F-FD07-4EA7-A203-9723462D3EAC}.Release|ORBIS.Build.0 = Release|ORBIS
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {05DE7A7E-60EE-4034-A36A-44DF97F01575}
+	EndGlobalSection
+EndGlobal
